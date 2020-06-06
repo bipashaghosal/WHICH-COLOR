@@ -1,0 +1,7 @@
+In the back-end my logic has been implemented to run the game smoothly.
+On the screen player will see 'Press Enter' then after pressing, the game starts.
+The task of the player will be to guess the correct color of any words & not the word itself,& type that color in the textbox present there.
+If the guessed color is right then both score & timer will be incremented.
+But if the player guesses wrong color then no score will be increased, & time will be flying on a regular basis.
+The game ends when time becomes zero seconds.
+Thus to play for a longer time the player needs to always keep the state of time in his mind & guess the color right, type fast, & make your score high & beat others.
